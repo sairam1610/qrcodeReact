@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/qrcodeReact/static/css/main.e1a847b3.chunk.css",
-    "main.js": "/qrcodeReact/static/js/main.acf8b69e.chunk.js",
-    "main.js.map": "/qrcodeReact/static/js/main.acf8b69e.chunk.js.map",
+    "main.css": "/qrcodeReact/static/css/main.ad2ba320.chunk.css",
+    "main.js": "/qrcodeReact/static/js/main.70bf0a42.chunk.js",
+    "main.js.map": "/qrcodeReact/static/js/main.70bf0a42.chunk.js.map",
     "runtime-main.js": "/qrcodeReact/static/js/runtime-main.7fa33a3c.js",
     "runtime-main.js.map": "/qrcodeReact/static/js/runtime-main.7fa33a3c.js.map",
     "static/js/2.43230a45.chunk.js": "/qrcodeReact/static/js/2.43230a45.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.30d029dc.chunk.js": "/qrcodeReact/static/js/3.30d029dc.chunk.js",
     "static/js/3.30d029dc.chunk.js.map": "/qrcodeReact/static/js/3.30d029dc.chunk.js.map",
     "index.html": "/qrcodeReact/index.html",
-    "static/css/main.e1a847b3.chunk.css.map": "/qrcodeReact/static/css/main.e1a847b3.chunk.css.map",
+    "static/css/main.ad2ba320.chunk.css.map": "/qrcodeReact/static/css/main.ad2ba320.chunk.css.map",
     "static/js/2.43230a45.chunk.js.LICENSE.txt": "/qrcodeReact/static/js/2.43230a45.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7fa33a3c.js",
     "static/js/2.43230a45.chunk.js",
-    "static/css/main.e1a847b3.chunk.css",
-    "static/js/main.acf8b69e.chunk.js"
+    "static/css/main.ad2ba320.chunk.css",
+    "static/js/main.70bf0a42.chunk.js"
   ]
 }
