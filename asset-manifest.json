@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/qrcodeReact/static/css/main.ad2ba320.chunk.css",
-    "main.js": "/qrcodeReact/static/js/main.09a7b812.chunk.js",
-    "main.js.map": "/qrcodeReact/static/js/main.09a7b812.chunk.js.map",
+    "main.js": "/qrcodeReact/static/js/main.c25b11d2.chunk.js",
+    "main.js.map": "/qrcodeReact/static/js/main.c25b11d2.chunk.js.map",
     "runtime-main.js": "/qrcodeReact/static/js/runtime-main.8a0bbbfd.js",
     "runtime-main.js.map": "/qrcodeReact/static/js/runtime-main.8a0bbbfd.js.map",
     "static/js/2.90a7e795.chunk.js": "/qrcodeReact/static/js/2.90a7e795.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8a0bbbfd.js",
     "static/js/2.90a7e795.chunk.js",
     "static/css/main.ad2ba320.chunk.css",
-    "static/js/main.09a7b812.chunk.js"
+    "static/js/main.c25b11d2.chunk.js"
   ]
 }
